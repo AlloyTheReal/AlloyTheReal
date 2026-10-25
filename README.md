@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/AlloyTheReal/Stack-Panel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-stack-panel-dark.svg"><img src="assets/project-stack-panel-light.svg" width="49%" alt="Stack-Panel"></picture></a>&nbsp;<a href="https://github.com/AlloyTheReal/nodemnt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nodemnt-dark.svg"><img src="assets/project-nodemnt-light.svg" width="49%" alt="nodemnt"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://metawka.github.io/expressive-profile/?from=AlloyTheReal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
