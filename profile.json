@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "login": "AlloyTheReal",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "buttons",
+    "wave",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "streak",
+    "stats",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Bonjour",
+    "name": "AlloyTheReal",
+    "subtitle": "Sysadmin et dev Fullstack",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "France"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "alloy.quelle.question"
+      }
+    ]
+  },
+  "about": {
+    "title": "A propos de moi ",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Etudient en informatique"
+      },
+      {
+        "icon": "code",
+        "label": "Frontend / Backend"
+      },
+      {
+        "icon": "palette",
+        "label": "Nul en design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Langages",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:coffeescript",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:json",
+            "label": "Json"
+          },
+          {
+            "icon": "brand:markdown",
+            "label": "Markdown"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Web",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "Vite"
+          },
+          {
+            "icon": "brand:nuxt",
+            "label": "Nuxt"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          }
+        ]
+      },
+      {
+        "title": "DB",
+        "items": [
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgresSQL"
+          }
+        ]
+      },
+      {
+        "title": "OS",
+        "items": [
+          {
+            "icon": "window",
+            "label": "Windows"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:cachyos",
+            "label": "Cachy OS"
+          },
+          {
+            "icon": "brand:kalilinux",
+            "label": "Kali Linux"
+          },
+          {
+            "icon": "brand:ubuntu",
+            "label": "Ubuntu"
+          },
+          {
+            "icon": "brand:debian",
+            "label": "Debian"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          }
+        ]
+      },
+      {
+        "title": "Système / application",
+        "items": [
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "Clouldflare"
+          },
+          {
+            "icon": "brand:pterodactyl",
+            "label": "Pterodactyl"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "Stack-Panel",
+      "nodemnt"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/9Bwd38qb8B"
+      },
+      {
+        "icon": "language",
+        "url": "https://alloyoff.fr"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Mon siet",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
