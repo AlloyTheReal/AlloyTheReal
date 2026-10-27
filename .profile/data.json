@@ -1,17 +1,33 @@
 {
- "key": "ce42c672",
+ "key": "d93cb33",
  "stars": 2,
- "contributions": 17,
- "repos": 5,
+ "contributions": 24,
+ "repos": 6,
  "followers": 2,
  "languages": [
+  [
+   "C++",
+   705628
+  ],
   [
    "JavaScript",
    78411
   ],
   [
    "HTML",
-   15149
+   16158
+  ],
+  [
+   "CMake",
+   11594
+  ],
+  [
+   "Objective-C++",
+   2209
+  ],
+  [
+   "C",
+   1005
   ]
  ],
  "days": [
@@ -96,11 +112,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 7,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 27,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -108,8 +128,8 @@
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
  "pins": [],
  "all": [
@@ -123,12 +143,21 @@
    "topics": []
   },
   {
+   "name": "Github-enhanced",
+   "url": "https://github.com/AlloyTheReal/Github-enhanced",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
    "name": "Virtual-Devices",
    "url": "https://github.com/AlloyTheReal/Virtual-Devices",
    "text": "Application Linux qui ajoute micro et caméra virtuel a partir d'un lien VDO.ninja",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "C++",
    "topics": []
   },
   {
